@@ -9,12 +9,12 @@ Conhecimentos em algumas linguagens:
 * 💻 **JAVA (__*Iniciante*__)**
 ---
 <a target="_blank" href="https://www.linkedin.com/in/bruno-ferreira-27336b1a9/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/brunof_si/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" />
 </a>
 <a target="_blank" href="https://twitter.com/fsi_bruno">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/124/124021.svg" />
 </a>
 </br>
