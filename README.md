@@ -5,8 +5,8 @@ Meu nome é Bruno, tenho 23 anos, Graduando em Sistemas de Informacão, moro em 
 ---
 Conhecimentos em algumas linguagens:
 * 👨‍💻 **C**
-* 💻 **PHP (__*Iniciante*__)**
-* 💻 **JAVA (__*Iniciante*__)**
+* 💻 **JavaScript(__*Básico*__)**
+* 💻 **Python (__*Básico*__)**
 ---
 <a target="_blank" href="https://www.linkedin.com/in/bruno-ferreira-27336b1a9/">
   <img align="left" alt="Linkedin" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
