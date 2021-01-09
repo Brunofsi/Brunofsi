@@ -9,7 +9,7 @@ Conhecimentos em algumas linguagens:
 * 💻 **JavaScript(__*Básico*__)**
 * 💻 **Python (__*Básico*__)**
 ---
-<a target="_blank" href="https://www.linkedin.com/in/bruno-ferreira-27336b1a9/">
+<a target="_blank" href="https://www.linkedin.com/in/brunofsi/">
   <img align="left" alt="Linkedin" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/brunof_si/">
