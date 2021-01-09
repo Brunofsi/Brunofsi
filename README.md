@@ -5,6 +5,7 @@ Meu nome é Bruno, tenho 23 anos, Graduando em Sistemas de Informacão, moro em 
 ---
 Conhecimentos em algumas linguagens:
 * 👨‍💻 **C**
+* 💻 **Aprendendo C#**
 * 💻 **JavaScript(__*Básico*__)**
 * 💻 **Python (__*Básico*__)**
 ---
