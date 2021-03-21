@@ -5,9 +5,7 @@ Meu nome é Bruno, tenho 23 anos, Graduando em Sistemas de Informacão, moro em 
 ---
 Conhecimentos em algumas linguagens:
 * 👨‍💻 **C**
-* 💻 **Aprendendo C#**
 * 💻 **JavaScript(__*Básico*__)**
-* 💻 **Python (__*Básico*__)**
 ---
 <a target="_blank" href="https://www.linkedin.com/in/brunofsi/">
   <img align="left" alt="Linkedin" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
