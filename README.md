@@ -8,12 +8,12 @@ Conhecimentos em algumas linguagens:
 * 💻 **JavaScript(__*Básico*__)**
 ---
 <a target="_blank" href="https://www.linkedin.com/in/brunofsi/">
-  <img align="left" alt="Linkedin" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" />
 </a>
 <a target="_blank" href="https://www.instagram.com/brunof_si/">
-  <img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384073.png" />
 </a>
 <a target="_blank" href="https://twitter.com/fsi_bruno">
-  <img align="left" alt="Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/124/124021.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384075.png" />
 </a>
 </br>
