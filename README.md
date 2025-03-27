@@ -1,6 +1,6 @@
 # Hey ✌
 
-Meu nome é Bruno, tenho 25 anos, Graduando em Sistemas de Informacão, ainda estou conhecendo varios tipos de linguagens de programação, amando e passando raiva com cada uma delas...
+Meu nome é Bruno, tenho 27 anos, Graduando em Sistemas de Informacão, ainda estou conhecendo varios tipos de linguagens de programação, amando e passando raiva com cada uma delas...
 
 ---
 Conhecimentos em algumas linguagens:
